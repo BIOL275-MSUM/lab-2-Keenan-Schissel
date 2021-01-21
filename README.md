@@ -3,7 +3,7 @@ Lab 2: Introduction to RStudio
 \_\_\_
 2021-01-21
 
-> INSTRUCTIONS: REMOVE THIS LINE AND REPLACE \_\_\_\_ WITH YOUR OWN TEXT
+Keenan Schissel
 
 Welcome to my Lab 2 repository for Quantitative Biology BIOL 275 at
 MSUM.
