@@ -111,5 +111,8 @@ ggplot(chick_data, aes(x = diet, y = weight, color = diet, fill = diet)) +
     fill = "Diet",
     y = "Weight (g)"
   )
+## Session Info
 
+
+sessioninfo::session_info()
 ```
