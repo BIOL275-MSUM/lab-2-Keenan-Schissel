@@ -1,6 +1,6 @@
 ---
 title: "Lab 2: Introduction to RStudio"
-author: "___"
+author: Keenan Schissel
 date: "`r format(Sys.Date())`"
 output: github_document
 ---

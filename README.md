@@ -1,6 +1,6 @@
 Lab 2: Introduction to RStudio
 ================
-\_\_\_
+Keenan Schissel
 2021-01-21
 
 Keenan Schissel
